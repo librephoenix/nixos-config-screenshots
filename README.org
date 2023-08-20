@@ -5,4 +5,16 @@ This is simply a repository of screenshots of my NixOS setup from which I embed 
 
 [[xmonad/ayu-dark.png]]
 
+** Organization
+Screenshots are organized into directories according to window manager, and named according to the theme, i.e:
+- [[./hyprland][hyprland]]
+  - [[./hyprland/ashes.png][ashes.png]]
+  - [[./hyprland/atelier-cave.png][atelier-cave.png]]
+  - (+53 more...)
+- [[./xmonad][xmonad]]
+  - [[./xmonad/ashes.png][ashes.png]]
+  - [[./xmonad/atelier-cave.png][atelier-cave.png]]
+  - (+53 more...)
+
+** Credits
 [[./credits.org][Here is a credits page]] listing base-16 theme authors and background image links used.
