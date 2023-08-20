@@ -3,4 +3,6 @@
 
 This is simply a repository of screenshots of my NixOS setup from which I embed links.
 
+[[xmonad/ayu-dark.png]]
+
 [[./credits.org][Here is a credits page]] listing base-16 theme authors and background image links used.
