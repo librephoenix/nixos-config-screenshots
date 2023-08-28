@@ -3,7 +3,7 @@
 
 This is simply a repository of screenshots of my NixOS setup from which I embed links.
 
-[[xmonad/ayu-dark.png]]
+[[hyprland/ayu-dark.png]]
 
 ** Organization
 Screenshots are organized into directories according to window manager, and named according to the theme, i.e:
